@@ -5,5 +5,5 @@ NMPC with Velocity Penalty: NMPC controller with an additional velocity penalty 
 APF (Artificial Potential Field): Artificial potential field–based control method
 
 Contents
-airsim.zip: AirSim simulation environment 
+airsim.zip: AirSim simulation environment link: https://1drv.ms/u/c/c0290812543cb0c3/EaU9ne3gcRBOsGC-zCt9Ru8BfcPrhSHWMmQYjTlHViTjxA?e=fNUjHK
 Control Scripts: Python scripts for drone formation and control experiments
